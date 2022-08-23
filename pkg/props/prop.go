@@ -1,8 +1,8 @@
 package props
 
 import (
-	"github.com/johnfercher/maroto/pkg/color"
-	"github.com/johnfercher/maroto/pkg/consts"
+	"github.com/donnol/maroto/pkg/color"
+	"github.com/donnol/maroto/pkg/consts"
 )
 
 // Proportion represents a proportion from a rectangle, example: 16x9, 4x3...
